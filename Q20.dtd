@@ -1,0 +1,9 @@
+<!DOCTYPE Teacher[
+<!ELEMENT Teacher>
+<!ELEMENT teach (id_no,name,subject,college)>
+<!ELEMENT id_no (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT subject (#PCDATA)>
+<!ELEMENT college (#PCDATA)>
+]>
+

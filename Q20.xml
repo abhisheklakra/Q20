@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="Q20.css"?>
+<!DOCTYPE Teacher SYSTEM "Q20.dtd">
+<Teacher>
+	<heading>Teacher</heading>
+	<teach>		
+		<name>Varun Sir</name>
+		<id_no>1</id_no>
+		<subject>JAVA Programming</subject>
+		<college>Don Bosco Technical School</college>
+	</teach>
+	<teach>		
+		<name>Ruchi Ma'am</name>
+		<id_no>2</id_no>
+		<subject>Web Tech</subject>
+		<college>Don Bosco Technical School</college>
+	</teach>
+	<teach>		
+		<name>Deepika Ma'am</name>
+		<id_no>3</id_no>
+		<subject>Software Engineering</subject>
+		<college>Don Bosco Technical School</college>
+	</teach>
+	<teach>		
+		<name>SanjaySir</name>
+		<id_no>4</id_no>
+		<subject>Mathematices</subject>
+		<college>Don Bosco Technical School</college>
+	</teach>
+	<teach>		
+		<name>Izhaar Sir</name>
+		<id_no>5</id_no>
+		<subject>Computer Networking</subject>
+		<college>Don Bosco Technical School</college>
+	</teach>
+</Teacher>
